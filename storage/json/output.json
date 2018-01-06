@@ -1,0 +1,22 @@
+{
+  "news": "There will be trail maintenance in this area starting January 55th. Some trails might be closed!",
+  "forecast": {
+    "current": {
+      "temp": "54F"
+    },
+    "3day": {
+      "0": {
+        "temp": "64F",
+        "conditions": "cloudy"
+      },
+      "1": {
+        "temp": "28F",
+        "conditions": "snow"
+      },
+      "2": {
+        "temp": "44F",
+        "conditions": "rain"
+      }
+    }
+  }
+}
